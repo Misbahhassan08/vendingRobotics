@@ -1,0 +1,3 @@
+gcc -pthread main.c -o main -lpigpio -lrt
+
+sudo ./main
